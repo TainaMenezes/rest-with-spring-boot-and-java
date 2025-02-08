@@ -1,0 +1,1 @@
+INSERT INTO `person` VALUES (2,'Matatabi','Naruto Miadera','Aracaju','Male'),(4,'Tokito','Muxiru','Aracaju','Male'),(5,'Felipe','Oliveira','Aracaju','Male'),(6,'Felipe','Oliveira','Aracaju','Male'),(7,'Felipe','Oliveira','Aracaju','Male'),(8,'Felipe','Oliveira','Aracaju','Male'),(9,'Cristiane','Menezes','Aracaju','Male');

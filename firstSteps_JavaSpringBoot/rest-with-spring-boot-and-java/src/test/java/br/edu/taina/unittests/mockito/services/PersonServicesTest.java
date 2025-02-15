@@ -1,4 +1,4 @@
-package br.edu.taina.unittestes.mockito.services;
+package br.edu.taina.unittests.mockito.services;
 
 import static org.junit.jupiter.api.Assertions.*;
 import static org.mockito.Mockito.when;
